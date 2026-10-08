@@ -8,7 +8,7 @@ const Navbar = () => {
         
         {/* Logo */}
         <div className="text-2xl font-bold text-[#151515]">
-          Book Vibe
+          Book ibe
         </div>
 
         {/* Navigation */}
