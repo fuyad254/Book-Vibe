@@ -43,6 +43,7 @@ const {
             alt={bookName}
             height={0}
             width={400}
+            priority
             className="max-h-150 w-auto max-w-full object-contain drop-shadow-xl"
           />
         </div>
